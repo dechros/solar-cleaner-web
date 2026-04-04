@@ -1,2 +1,3 @@
-# solarCleanerWeb
-Web software for the remote-controlled solar cleaner machine.
+# solar-cleaner-web
+
+Web interface for the solar cleaner machine.
